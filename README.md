@@ -7,8 +7,9 @@
 <div align="center">
  
   <a href = "https://www.linkedin.com/in/rudra-pratap-singh-99650425a/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="85" height="25" alt="linkedin logo"  /> </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="85" height="25" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="25" alt="gmail logo"  />
+  <a href = "https://www.instagram.com/rudra_pratap_252/">   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="85" height="25" alt="instagram logo"  /> </a>
+<a href = "mail to: rudrapratap24apr@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="85" height="25" alt="gmail logo"  /> </a>
+  
 </div>
 
 ###
