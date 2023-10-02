@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">I'm Rudra from Faridabad ,Haryana<br><br>- 🔭 I’m currently a student at JCBUST.<br>- 📚 I'm currently learning DSA in CPP<br>- ⚡ In my free time I</p>
+<p align="left">I'm Rudra from Faridabad ,Haryana<br><br>- 🔭 I’m currently a student at JCBUST(YMCA).<br>- 📚 I'm currently learning DSA in CPP.<br>- ⚡ In my free time I watch movies and listem to music.</p>
 
 ###
 
